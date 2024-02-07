@@ -1,4 +1,3 @@
-// WeatherChart.js
 import React, { useEffect, useState } from 'react';
 import "chart.js/auto";
 import { Line } from 'react-chartjs-2';
