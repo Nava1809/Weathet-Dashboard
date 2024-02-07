@@ -1,4 +1,3 @@
-// WeatherInfo.js
 import React from 'react';
 import '../Components/WeatherChart.css'
 
